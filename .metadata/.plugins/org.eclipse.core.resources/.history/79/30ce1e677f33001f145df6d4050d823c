@@ -1,0 +1,11 @@
+package com.nt.service;
+
+public class PurchaseOrderImpl implements IPurchaseOrder {
+
+	@Override
+	public String purchase(String[] items, double[] prices, String[] emails) throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
